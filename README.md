@@ -1,2 +1,4 @@
 ##Project overview
-This project is a simple web application that allows users to create and manage their to-do lists. The application is built using React for the frontend and Node.js with Express for the backend. The data is stored in a MongoDB database.
+This project is a simple web application that allows users to create and manage their to-do lists. The application is built using React for the frontend and Node.js with Express for the backend. The data is stored in a MongoDB database.    
+
+##Project structure
